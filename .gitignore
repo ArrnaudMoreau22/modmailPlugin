@@ -130,7 +130,6 @@ package-lock.json
 node_modules/
 
 # Modmail
-plugins/*
 !plugins/registry.json
 !plugins/@local
 config.json
